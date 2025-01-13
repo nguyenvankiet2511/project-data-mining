@@ -21,6 +21,7 @@ Using the C# programming language to develop applications that help explore algo
 # Prepare the data.
 ### 1. Clustering Algorithms
 Consider a data point with two attributes: x-coordinate and y-coordinate.
+
 Example:
 3.4, 6.1
 12.3, 8.9
